@@ -1,0 +1,6 @@
+/Users/hezhipeng/Projects/SimpleMeasurementConverter/SimpleMeasurementConverter/obj/x86/Debug/SimpleMeasurementConverter.csprojAssemblyReference.cache
+/Users/hezhipeng/Projects/SimpleMeasurementConverter/SimpleMeasurementConverter/obj/x86/Debug/SimpleMeasurementConverter.csproj.CoreCompileInputs.cache
+/Users/hezhipeng/Projects/SimpleMeasurementConverter/SimpleMeasurementConverter/bin/Debug/SimpleMeasurementConverter.exe
+/Users/hezhipeng/Projects/SimpleMeasurementConverter/SimpleMeasurementConverter/bin/Debug/SimpleMeasurementConverter.pdb
+/Users/hezhipeng/Projects/SimpleMeasurementConverter/SimpleMeasurementConverter/obj/x86/Debug/SimpleMeasurementConverter.exe
+/Users/hezhipeng/Projects/SimpleMeasurementConverter/SimpleMeasurementConverter/obj/x86/Debug/SimpleMeasurementConverter.pdb
